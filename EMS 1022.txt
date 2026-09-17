@@ -168,17 +168,19 @@ Anticholinergic bronchodilator chemically related to atropine.
 `Ondansetron`
 > Zofran
 > Dose: Adult 4mg ODT, may repeat x1; Peds 6mo-4yo 2mg ODT
-Anti
-* Indications:
-* Contraindications: 
-* Side effects: 
+Anti-emetic, decreases nausea/vomiting.
+* Indications: Nausea/vomiting
+* Contraindications: Use with caution with first trimester of pregnancy.
+* Side effects: None if administered properly.
 
 `Phenylephrine`
-> 
-> Dose: 
+> Neo-synephrine
+> Dose: First, have patient blow their nose to expel clots, then, administer 2 sprays into affected nostrils, pinch the fleshy parts of the nose.
+Vasoconstriction of the nasal mucosa, decrease nasal bleeding.
+* Indications: Epitaxis (nosebleed)
+* Contraindications: None
+* Side effects: Nasal dryness, burning or stinging (avoid contact with the eyes)
 
-* Indications:
-* Contraindications: 
-* Side effects: 
+# Respiratory Emergencies
 
-TEST
+
