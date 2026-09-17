@@ -1,0 +1,182 @@
+# 1022 NOTES
+> blockquote
+`preformatted text`
+* yellow dot
+**emphasis**
+
+# Scene Flow
+`B`     BSname
+`L`     LOC
+`X`     XABCs
+`R/O`   RTA/OPQRST
+`V`     Vitals
+`TD`    Transport Decision
+`S`     SAMPLE
+`2`     Secondary Assessment
+`R`     Reassess
+
+> `BSname` Scene Size-Up --
+BSI, scene safe?, number of patients, additional help?, MOI/NOI, Evaluate C-spine
+
+> `LOC` Level of Consciousness --
+A/O X 1-4; Person, Place, Time, Event
+
+> `XABCs` Exsanguinating hemorrhage, Airway, Breathing, Circulation --
+Control major bleeding, suction airway, ventilate, neck lacerations, sucking chest wound.
+
+> `R/O` Primary assessment/rapid trauma assessment, OPQRST
+Chief complaint, AVPU, Breathing/give O2, Circulation (pulse, skin, blood/bleeding)
+If unresponsive, do CB/ABC
+*Leader does this*
+
+> `Vitals` (delegate)
+HR, RR, BP, Breath Sounds, BGL, Pupils (PERRLA)
+
+> `Transport Decision`
+Emergent or non-emergent, stay and play or load and go?
+
+> `SAMPLE`
+Signs + Symptoms, Allergies, Medications, Pertinent medical history, last ins/outs, Events leading up to
+
+> `Secondary Assessment` -- Before calling doc or leaving, have this + plan
+Focused or rapid.
+Medical: history, physical, vitals
+Trauma: physical, vitals, history
+
+> `Reassessment` (detailed)
+
+SAMPLE Questions/Things to focus on
+* Signs and symptoms, also ask pointed questions so they don't leave out an important symptom they don't think is relevant. But also don't lead them to a conclusion.
+* When asking about medications, ask about prescribed meds, OTC meds, doses, if they have the bottle nearby (then look at it), illicit drug use (opioids, etc)
+* When asking about pertinent medical history, ask pointed questions and don't expect them to remember things or connect things that would be pertinent.
+* Last ins/outs food, drink, pissing, shitting, vomiting
+* When asking about events, ask about unusual behavior, sleep, physical activity, accidents, falls, injuries, for accidents+falls+injuries: *have they gone to the ER about it?*
+
+Differential Diagnosis -> come up with possibilities out loud for class evals
+
+# Radio Report
+Only pertinent info
+ambulance/squad, number of patients, age, general impression/CC w pertinent context (acutely unresponsive, who had been in a rollover car crash last week with worsening headache) (entered-exited gunshot wound) (suspected stroke, AAO X 1 to person with asymmetric puils and weakness on the left side), vitals
+
+# Hospital Report
+Detailed report
+This is [name], [age] [sex], CC + history (complaining of worsening headache after a car crash yesterday but did not go to the ER, took tylenol 2 hours ago) (Suspected overdose on opiates, in respiratory arrest with pinpoint pupils), clinical impression (suspected brain bleed) (myocardial infarction) physical exam (Rapid, detailed, or focused including mental status, skin signs, and pertinent *negatives*), treatments you provided (gave overdosing patient 2mg of narcan) and how they responded (patient woke and became agitated). Past medical history (history of falls, knee replacement, had a heart attack last year), medications they took/take, pertinent allergies. Vitals and trending.
+
+# Pharmacology -- Medications
+
+All meds must be prescribed to patient
+Have to get approval from a physician to give meds, may have a standing order.
+Albuterol, Epi, Nitro need to be prescribed fs
+All meds technically have NVD (nausea, vomiting, diarrhea) as side effects.
+PO = per os, by mouth
+PRN = as needed
+MVO2 = cardiac o2 demand
+CP = chest pain
+
+`Types of receptors:` 
+alpha-1 = vasoconstriction increase in number distal to heart
+alpha-2 = limits/control alpha-1
+beta-1 = controls heart, increase HR + contraction + conduction
+beta-2 = controls lungs, bronchodilation
+
+**6 Rights**
+`P`et -- Pt, prescribed to correct person
+`M`y -- Medication, correct med
+`D`og -- Dose, correct dose
+`R`ight -- Route, method of giving med (mouth, sublingual, IN, IV)
+`T`here -- Time, at the correct time, not expired
+`D`ude -- Documentation
+
+**National Registry Drugs**
+
+`Aspirin` (ASA)
+> Bayer, Ecotrin
+> Dose: **324mg** chewed and swallowed. (PO)
+Inhibits platelet aggregation (anti clotting)
+* Indications: Suspected acute coronary syndrome (ACS) or myocardial infarction (MI), *cardiac related* chest pain/discomfort
+* Contraindications: GI bleed, allergy to ASA, unable to swallow, <16yo
+* Side effects: heartburn
+
+`Albuterol`
+> Proventil, Ventolin
+> Dose: SVN (small volume nebulizer) 6-8LPM with O2/**2.5mg** in 3ml saline;  MDI/**Two puffs**
+Selective beta-2 adrenergic receptor agonist, smooth muscle relaxant, bronchodilation.
+* Indications: Respiratory distress due to bronchial asthma or COPD
+* Contraindications: Severe tachycardia
+* Side effects: Increased HR, tremors, palpitations
+
+`Epinepherine`
+> Epi-pen, Epi-pen jr, Twinject
+> Dose: Adults (>66lbs) **0.3mg** IM, peds (<66lbs) **0.15mg** IM. In the middle of the vastus lateralis 
+Bronchodilation, vasoconstriction
+* Indications: Anaphylactic w respiratory distress/airway comp and/or hypoperfusion.
+* Contraindications: *None* in a life-threatening event
+* Side effects: Increased HR and breathing, hypertension, anxiety, increased MVO2/CP
+
+`Nalaxone`
+> Narcan
+> Dose: **0.5mg** IN/IV and titrate to effect, up to **2mg total**
+Competitive opioid receptor antagonist.
+* Indications: opioid-induced CNS and respiratory depression, coma of unknown origin with impaired airway or respiratory depression. *Suspected* OD.
+* Contraindications: None
+* Side effects: Increased HR, nausea/vomiting, pulmonary edema, agitation/withdrawal symptoms
+>> Signs of OD: Altered mental status/unconscious, pinpoint pupils (bilateral), respiratory depression. Trying only to get them breathing on their own, don't need to wake them up.
+
+`Nitroglycerin`
+> Nitrostat, Nitro-bid
+> Dose: One **0.4mg** tablet or spray sublingually every 5min, PRN if chest pain/discomfort persists to a max of 3 doses (**max total 1.2mg**)
+Dilates blood vessels, decreases workload of the heart, decreases cardiac oxygen demand (MVO2). a "crisp" light-sensitive tablet, if not crisp check expiry date.
+* Indications: Suspected ACS/MI, *cardiac related* chest pain/discomfort
+* Contraindications: Systolic BP below 100 mmHg, max dose taken PTA, taken ED meds in previous 24 hours (viagra, cialis, levitra), BP drop of 30 mmHg from initial
+* Side effects: Hypotension, headache, syncope
+>> When you call physician to give dose, ask ahead to give up to 3x, otherwise you have to call per dose.
+
+`Oral Glucose`
+> Glucose. insta-glucose
+> Dose: 15g buccally (between cheek and gums, but tbh just have them suck it down)
+Increase blood glucose levels.
+* Indications: Known or suspected hypoglycemia. It takes longer for hyperglycemia to hurt you than hypoglycemia so if unsure, give it.
+* Contraindications: Unable to swallow, unable to take PO meds for another reason
+* Side effects: None if given properly
+
+**Denver Metro Meds**
+
+`Acetaminophen`
+> Tylenol
+> Dose: Adults 1000mg PO, Peds 15mg/kg PO
+Elevates pain threshold and readjusts hypothalamic temperature-regulatory center.
+* Indications: Mild pain, moderate, or severe pain; fever (>38.3 C / 101 F)
+* Contraindications: Allergy to acetaminophen, chronic liver disease, theraputic dose of acetaminophen within the past 6 hours, greater than 3 G in the last 24 hours
+* Side effects: Nausea and vomiting, consider hepatotoxicity in OD or chronic alcohol use
+
+`Ibuprofen`
+> Motrin, advil
+> Dose: Adults 600 mg PO, Peds 10 mg/kg PO
+Decrease pain and inflammation by several mechanisms. NSAID.
+* Indications: Acute treatment of mild, moderate, or severe pain; pain due to suspected kidney stones, acute exacerbations of chronic pain, musculoskeletal pain, fever
+* Contraindications: Allergy to NSAIDs including aspirin and naprosyn, aleve; pregnancy or breastfeeding; history of GI bleeding or active stomach ulcer; history of chronic kidney disease or kidney transplant; anti-coagulation/anti-platelet (bloodthinners) or history of blood clotting disorder
+* Side effects: Allergic reactions (anaphylaxis, urticaria, angioedema, bronchospasm, rash, hypotension), nausea and vomiting, GI Bleeding with chronic use, acute kidney injury
+
+`Ipratropium Bromide`
+> Atrovent
+> Dose: 2y-adult 0.5mg with albuterol in a nebulizer, *not indicated for repetitive dose or continuous neb use*
+Anticholinergic bronchodilator chemically related to atropine.
+* Indications: Bronchospasm
+* Contraindications: Soy or peanut allergy or the metered dose inhaler not nebulized solution because its in the propellant.
+* Side effects: Palpitations, tremors, dry mouth
+
+`Ondansetron`
+> Zofran
+> Dose: Adult 4mg ODT, may repeat x1; Peds 6mo-4yo 2mg ODT
+Anti
+* Indications:
+* Contraindications: 
+* Side effects: 
+
+`Phenylephrine`
+> 
+> Dose: 
+
+* Indications:
+* Contraindications: 
+* Side effects: 
