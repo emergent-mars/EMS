@@ -182,5 +182,136 @@ Vasoconstriction of the nasal mucosa, decrease nasal bleeding.
 * Side effects: Nasal dryness, burning or stinging (avoid contact with the eyes)
 
 # Respiratory Emergencies
+**Normal breathing**
+* Stimulation to breathe is CO2
+* Diaphragm active contraction on inspiration, relaxation on expiration
+* 1-2 in visible rise and fall is normal
 
+Respiratory...
+> Distress -- difficulty breathing, can resolve on its own
+> Failure -- not breathing effectively, on its way to arrest, seeing changes in physiology
+> Arrest -- not breathing at all
 
+`Dyspnea`: difficulty breathing
+> Mechanical disruption to airway, lungs, or chest wall. Help ventilate
+> Inadequate gas exchange via perfusion disturbance (CO, cyanide)
+`Agonal`: decreased rate, gasping breathing
+`Apnea`: not breathing
+`Bradypnea`: slow breathing
+`Tachypnea`: fast breathing
+`Hypoxia`: lack of O2
+`Hypoxemia`: lack of O2 in the blood
+`Hypercapnia`: Elevated CO2
+`Bronchoconstriction`: narrowing of bronchus
+`Bronchodilation`: widening of bronchus
+`Tripod position`: leaning over with hands braced on knees, sign of respiratory distress
+
+`Pulse Ox`
+Too much O2 can be harmful.
+In cases of cardiac chest pain, stroke, and ROSC -- need to use the 94% SpO2% measurement to guide if you give O2-- >94% don't give O2.
+ROSC = heart starts beating on its own after arrest
+Class 1 - conditions for which there is evidence, general agreement, or both that a given procedure or treatment is useful and effective.
+
+*O2 should be administered to the patient suspected of ACS if they are dyspneic, hypoxemic, has obvious signs of heart failure, or has a spO2 <90%*
+
+`Airway`
+> Visualize for any type of foreign body in the airway, when/how to remove. Finger sweep, suction, get ALS.
+If they are awake and talking, they have an open airway.
+
+**Disorders**
+
+`Emphysema`
+> Physiology/pathophys:
+> Signs/symptoms:
+> Vital sign changes:
+> Questions during assessment:
+> Treatment
+> Additional Notes/memory aids:
+
+`Chronic Bronchitis`
+> Physiology/pathophys:
+> S/s:
+> Vital sign changes:
+> Questions during assessment:
+> Treatment
+> Additional Notes/memory aids:
+
+`Asthma / Status Asthmaticus`
+> Physiology/pathophys:
+> S/s:
+> Vital sign changes:
+> Questions during assessment:
+> Treatment
+> Additional Notes/memory aids:
+
+`Pneumonia`
+> Physiology/pathophys:
+> S/s:
+> Vital sign changes:
+> Questions during assessment:
+> Treatment
+> Additional Notes/memory aids:
+
+`Pulmonary Embolism`
+> Physiology/pathophys:
+> S/s:
+> Vital sign changes:
+> Questions during assessment:
+> Treatment
+> Additional Notes/memory aids:
+
+`Pulmonary Edema`
+> Physiology/pathophys:
+> S/s:
+> Vital sign changes:
+> Questions during assessment:
+> Treatment
+> Additional Notes/memory aids:
+
+`Pneumothorax`
+> Physiology/pathophys:
+> S/s:
+> Vital sign changes:
+> Questions during assessment:
+> Treatment
+> Additional Notes/memory aids:
+
+`Hyperventilation`
+> Physiology/pathophys:
+> S/s:
+> Vital sign changes:
+> Questions during assessment:
+> Treatment
+> Additional Notes/memory aids:
+
+`Epiglottis`
+> Physiology/pathophys:
+> S/s:
+> Vital sign changes:
+> Questions during assessment:
+> Treatment
+> Additional Notes/memory aids:
+
+`Pertussis`
+> Physiology/pathophys:
+> S/s:
+> Vital sign changes:
+> Questions during assessment:
+> Treatment
+> Additional Notes/memory aids:
+
+`Cystic Fibrosis`
+> Physiology/pathophys:
+> S/s:
+> Vital sign changes:
+> Questions during assessment:
+> Treatment
+> Additional Notes/memory aids:
+
+`Upper Respiratory Infection (URI)`
+> Physiology/pathophys:
+> S/s:
+> Vital sign changes:
+> Questions during assessment:
+> Treatment
+> Additional Notes/memory aids:
