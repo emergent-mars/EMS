@@ -218,6 +218,35 @@ Class 1 - conditions for which there is evidence, general agreement, or both tha
 > Visualize for any type of foreign body in the airway, when/how to remove. Finger sweep, suction, get ALS.
 If they are awake and talking, they have an open airway.
 
+PPV == ventilating for someone
+
+iGel (supraglottic) invasive airway tube, 3 lengths.
+4 = 4.5-5'
+5 = 5-6'
+6 = 6'+
+
+CPAP, continuous positive airway pressure, "air splint" keeps some of the air in a patient's lungs when they exhale so it doesn't collapse. starting pressure is 0.5 mmH2O.
+
+Rate and Tidal vol combo
+> If adequate, provide appropriate O2
+> In inadequate, provide PPV w O2 immediately
+> Cyanosis is usually inadequate--AMS can be deciding factory
+Subjective decision from objective info, use assessment techniques to determine a course of action.
+
+Establish airway, PPV, emergent transfer.
+If patient is found to be a priority, consider ALS backup and expedite transport.
+
+If adequate, monitor, O2 if appropriate, MDI/nebulizer/humidified O2, complete history + physical exam, place patient in a position of comfort--typically a fowler's or semi-fowler's, then begin transport.
+
+**Capnography + ETCO2**
+ETCO2 = end tidal CO2, measures the amount of CO2 that is expired. measured with a capnograph
+Normal range is 35-45mmHg, in Colorado 30-45mmHg
+High ETCO2 can occur when air is held in the lungs for longer than usual (respiratory depression, slow RR), and low can occur when hyperventilating.
+
+Looking at both ventilation rate and exchange capability
+Rate: hypoventilation raises ETCO2, hyperventilation lowers
+Exchange: damage to alveoli that limits gas exchange, lowers ETCO2
+
 **Disorders**
 
 `Emphysema`
@@ -246,34 +275,37 @@ If they are awake and talking, they have an open airway.
 
 `Pneumonia`
 > Physiology/pathophys:
-> S/s:
+> S/s: Malaise, decreased appetite, fever, cough, dyspnea, tachypnea and tachycardia; sharp, localized chest pain, abnormal breath sounds, diaphoresis, cyanosis and low pulse ox in severe cases
 > Vital sign changes:
 > Questions during assessment:
-> Treatment
+> Treatment: Humidified O2, to the hospital, maybe refuse and go to PCP
 > Additional Notes/memory aids:
 
-`Pulmonary Embolism`
-> Physiology/pathophys:
-> S/s:
-> Vital sign changes:
+`Pulmonary Embolism` **PE**
+> Physiology/pathophys: obstruction of blood flow somewhere in the pulmonary arteries prevents the blood from reaching the lungs for oxygenation. Risks: sedentary position, long bone fractures, smoking, birth control (pills); DVT (deep vein thrombosis)
+> S/s: Cyanosis, hypoxia, restlessness/anxiety, tacypnea sharp localized pain
+> Vital sign changes: Increased HR, increased RR, falling BP, ETCO2 decrease, lung sounds would be clear, cool clammy skin, cough (50% cases), distended neck vein
 > Questions during assessment:
 > Treatment
 > Additional Notes/memory aids:
 
 `Pulmonary Edema`
+Acute pulmonary edema as part of congestive heart failure (CHF)
 > Physiology/pathophys:
-> S/s:
+> S/s: Dyspnea, orthopnea (difficulty breathing depending on position), frothy sputum, tachycardia, tachypnea, tripod positioning, fatigue, anxiety or confusion, crackles and possibly wheezing, distended neck veins, possible edematous extremities, other findings consistent with cardiac compromise
 > Vital sign changes:
 > Questions during assessment:
 > Treatment
 > Additional Notes/memory aids:
+
+CHF you can tell which side of the heart failure is on, left heart causes pulmonary edema; right heart causes peripheral edema.
 
 `Pneumothorax`
 > Physiology/pathophys:
 > S/s:
 > Vital sign changes:
 > Questions during assessment:
-> Treatment
+> Treatment:
 > Additional Notes/memory aids:
 
 `Hyperventilation`
