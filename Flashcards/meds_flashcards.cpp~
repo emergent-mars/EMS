@@ -1,0 +1,335 @@
+#include <iostream>
+#include <random>
+#include <algorithm>
+#include <vector>
+#include <string>
+using namespace std;
+// M-x comment-region, M-x uncomment-region
+
+
+// function that checks user against correct answer
+void question(string answer[], int l_answer, bool n, string dn[], int l_dn, bool p, string dp[],int l_dp, bool m, string md[], int l_md, int max){
+  
+  // initialize vairables
+  std:: string a;
+  vector<int> c;
+  int answer_correct;
+  int max_doses;
+  std::cout << "Dose is? ";
+  std::getline(std::cin, a); // records user's answer as one string
+
+  for (int i = 0; i < l_answer; i++){ c.push_back(a.find(answer[i]));} // checks if a contains each string of answer array, stores each in array of booleans
+  
+  for (int j = 0 ; j < l_answer; j++){
+    answer_correct = c.at(j);
+    if (answer_correct == std::string::npos) {break;}
+  } // checks that boolean array is all true or stops and reports the false
+  
+  if(answer_correct != std::string::npos){ std::cout << "Correct!";} // only prints correct if entire array of booleans = true
+  else { std::cout << "Incorrect :(\nAnswer was: ";
+    for(int k = 0; k < l_answer; k++){cout << answer[k]  << " ";}
+  } // print answer array
+
+  c.clear();
+  std::cout << "\n";
+
+  // check dose2
+
+  if(n){
+     std::cout << "Other dose is? ";
+     std::getline(std::cin, a); // records user's answer as one string
+
+     for (int i = 0; i < l_dn; i++){ c.push_back(a.find(dn[i]));} // checks if a contains each string of answer array, stores each in array of booleans
+     
+     for (int j = 0 ; j < l_dn; j++){
+       answer_correct = c.at(j);
+       if (answer_correct == std::string::npos) {break;}
+     } // checks that boolean array is all true or stops and reports the false
+     
+     if(answer_correct != std::string::npos){ std::cout << "Correct!";} // only prints correct if entire array of booleans = true
+     else { std::cout << "Incorrect :(\nAnswer was: ";
+       for(int k = 0; k < l_dn; k++){cout << dn[k]  << " ";}
+     } // print answer array
+
+     c.clear();
+     std::cout << "\n";
+  }
+  
+  // check peds
+  if(p){
+    std::cout << "Peds dose is? ";
+    std::getline(std::cin, a); // records user's answer as one string
+    
+    for (int i = 0; i < l_dp; i++){ c.push_back(a.find(dp[i]));} // checks if a contains each string of answer array, stores each in array of booleans
+    
+    for (int j = 0 ; j < l_dp; j++){
+      answer_correct = c.at(j);
+      if (answer_correct == std::string::npos) {break;}
+    } // checks that boolean array is all true or stops and reports the false
+    
+    if(answer_correct != std::string::npos){ std::cout << "Correct!";} // only prints correct if entire array of booleans = true
+    else { std::cout << "Incorrect :(\nAnswer was: ";
+      for(int k = 0; k < l_dp; k++){cout << dp[k]  << " ";}
+    } // print answer array
+
+    c.clear();
+    std::cout << "\n";
+  }
+
+  // check max dose
+
+  if(m){
+    std::cout << "How many times may it be given? ";
+    std::cin >> max_doses;
+    
+    if(max_doses == max){std::cout << "Correct!";} else{std::cout << "Incorrect :(" << "\nCorrect answer was " << max << ".";}
+
+    std::cin.ignore();
+    std::cout << "\n";
+
+    std::cout << "And the max dose is? ";
+    std::getline(std::cin, a); // records user's answer as one string
+    
+    for (int i = 0; i < l_md; i++){ c.push_back( a.find(md[i]));} // checks if a contains each string of answer array, stores each in array of booleans
+    
+    for (int j = 0 ; j < l_md; j++){
+      answer_correct = c.at(j);
+      if (answer_correct == std::string::npos) {break;}
+    } // checks that boolean array is all true or stops and reports the false
+    
+    if(answer_correct != std::string::npos){ std::cout << "Correct!";} // only prints correct if entire array of booleans = true
+    else { std::cout << "Incorrect :(\nAnswer was: ";
+      for(int k = 0; k < l_md; k++){cout << md[k]  << " ";}
+    } // print answer array
+
+    c.clear();
+    std::cout << "\n";
+  }
+  
+} // end of question function
+
+
+int main () {
+
+  //randomizer
+  
+  // obtain random seed from hardware
+  std::random_device rd;
+  // initialize standard engine with seed
+  std::mt19937 gen(rd());
+  // create question pool, questions #1-n
+  std::vector<int> pool = {1,2,3,4,5,6,7,8,9,10,11};
+  // shuffle pool
+  std::shuffle(pool.begin(), pool.end(), gen);
+  
+  std::cout <<"\n";
+  
+  // initialize variables
+  bool num; // if there's multiple answers
+  bool peds; // if there's a peds variant
+  bool max; // check if theres a max dose
+  int max_doses;
+  
+  // question loop
+
+  for(int i = 0; i < pool.size(); i++){
+    
+    switch(pool.at(i)){
+
+    case 1: {
+      
+      std::cout << "\nASPIRIN\n  Anti-clotting.\n  Indications: cardiac related chest pain/discomfort.\n  Contraindications: GI bleed, allergy to ASA, unable to swallow, pt < 16yo.\n\n";
+      
+      std:: string asp[3] = {"324", "mg", "PO"};
+      num = false;
+      std:: string asp_num[1] = {"null"};
+      peds = false;
+      std:: string asp_peds[1] = {"null"};
+      max = false;
+      std:: string max_asp[1] = {"null"};
+      max_doses = 1;
+      
+      question(asp, 3, num, asp_num, 1, peds, asp_peds, 1,  max, max_asp, 1, max_doses);
+      std::cout << "\n";
+      break;
+    }
+      
+    case 2: {
+      std::cout << "ALBUTEROL\n  Selective beta-2 adrenergic receptor agonist, smooth muscle relaxant, bronchodilation.\n  Indications: Respiratory distress due to bronchial asthma or COPD.\n  Contraindications: Severe tachycardia.\n\n";
+      
+      std:: string alb[9] = {"2.5", "mg", "3", "ml", "saline", "SVN", "O2", "6-8", "LPM"};
+      num = true;
+      std:: string alb_num[2] = {"2", "puffs"};
+      peds = false;
+      std:: string alb_peds[1] = {"null"};
+      max  = false;
+      std:: string max_alb[1] = {"null"};
+      max_doses = 1;
+      
+      question(alb, 9, num, alb_num, 2, peds, alb_peds, 1,  max, max_alb, 1, max_doses);
+      std::cout << "\n";
+      break;
+    }
+      
+    case 3: {
+      std::cout << "EPINEPHRINE\n  Bronchodilation, vasoconstriction.\n  Indications: anaphylactic with respiratory distress/airway comp and/or hypoperfusion.\n  Contraindications: NONE in a life-threatening event.\n\n";
+      
+      std:: string epi[3] = {"0.3", "mg", "IM"};
+      num  = false;
+      std:: string epi_num[1] = {"null"};
+      peds = true;
+      std:: string epi_peds[3] = {"0.15", "mg", "IM"};
+      max = false;
+      std:: string max_epi[1] = {"null"};
+      max_doses = 1;
+      
+      question(epi, 3, num, epi_num, 1, peds, epi_peds, 3, max, max_epi, 1, max_doses);
+      std::cout << "\n";
+      break;
+    }
+      
+    case 4: {
+      std::cout << "NALAXONE\n  Competitive opioid receptor antagonist.\n  Indications: opioid induced CNS and respiratory depression, coma of uknown origin with impaired airway or respiratory depression, pinpoint pupils.\n  Contraindications: none!\n\n";
+      
+      std:: string nal[4] = {"0.5", "mg", "IN", "IV"};
+      num = false;
+      std:: string nal_num[1] = {"null"};
+      peds = false;
+      std:: string nal_peds[1] = {"null"};
+      max = true;;
+      std:: string max_nal[2] = {"2", "mg"};
+      max_doses = 4;
+      
+      question(nal, 4, num, nal_num, 1, peds, nal_peds, 1, max, max_nal, 2, max_doses);
+      std::cout << "\n";
+      break;
+    }
+      
+    case 5: {
+      std::cout << "NITROGLYCERIN\n  Dilates blood vessels, decreases workload of the heart, decreases cardiac oxygen demand (MVO2).\n  Indications: ACS/MI, cardiac arrest related chest pain/discomfort.\n  Contraindications: Systolic BP <100 mmHg, a BP drop of 30mmHg from primary, taken ED meds in the previous 24 hours.\n\n";
+      
+      std:: string nit[5] = {"0.4", "mg", "tablet", "spray", "sublingual"};
+      num = false;
+      std:: string nit_num[1] = {"null"};
+      peds = false;
+      std:: string nit_peds[1] = {"null"};
+      max = true;
+      std:: string max_nit[2] = {"1.2", "mg"};
+      max_doses = 3;
+      
+      question(nit, 5, num, nit_num, 1, peds, nit_peds, 1, max, max_nit, 2, max_doses);
+      std::cout << "\n";
+      break;
+    }
+      
+    case 6: {
+      std::cout << "ORAL GLUCOSE\n  Increase blood glucose levels.\n  Indications: known or suspected hypoglycemia.\n  Contraindications: unable to swallow or take other PO meds.\n\n";
+      
+      std:: string glu[3] = {"15", "g", "buccally"};
+      num = false;
+      std:: string glu_num[1] = {"null"};
+      peds = false;
+      std:: string glu_peds[1] = {"null"};
+      max = false;
+      std:: string max_glu[1] = {"null"};
+      max_doses = 1;
+
+      question(glu, 3, num, glu_num, 1, peds, glu_peds, 1, max, max_glu, 1, max_doses);
+      std::cout << "\n";
+      break;
+    }
+      
+    case 7: {
+      std::cout << "ACETAMINOPHEN\n  Elevates pain threshold and readjusts hypothalmic temp-reg center.\n  Indications: mild, moderate, or severe pain, fever.\n  Contraindications: Allergy to acetaminophen, chronic liver disease, theraputic dose of acetaminophen within the past 6 hours or greater than 3g in the last 24 hours.\n\n";
+      
+      std:: string ace[3] = {"1000", "mg", "PO"};
+      num = false;
+      std:: string ace_num[1] = {"null"};
+      peds = true;
+      std:: string ace_peds[2] = {"15", "mg/kg"};
+      max  = false;
+      std:: string max_ace[1] = {"null"};
+      max_doses = 1;
+
+      question(ace, 3, num, ace_num, 1, peds, ace_peds, 2, max, max_ace, 1, max_doses);
+      std::cout << "\n";
+      break;
+    }
+      
+    case 8: {
+      std::cout << "Ibuprofen\n  Decrease pain and inflammation by several mechanisms. NSAID.\n  Indications: Acute treatment of mild, moderate, or severe pain, pain due to suspected kidney stones, acute exacerbations of chronic pain, musculoskeletal pain, fever.\n  Contraindications: Allergy to NSAIDs, pregnancy or breastfeeding, history of GI bleeding or active stomach ulcer, history of chronic kidney disease or kidney transplant, anti-coagulation/anti-platelet (bloodthinners) or history of blood clotting disorder.\n\n";
+      
+      std:: string ibu[3] = {"600", "mg", "PO"};
+      num = false;
+      std:: string ibu_num[1] = {"null"};
+      peds = true;
+      std:: string ibu_peds[2] = {"10", "mg/kg"};
+      max  = false;
+      std:: string max_ibu[1] = {"null"};
+      max_doses = 1;
+      
+      question(ibu, 3, num, ibu_num, 1, peds, ibu_peds, 2,  max, max_ibu, 1, max_doses);
+      std::cout << "\n";
+      break;
+    }
+      
+    case 9: {
+      std::cout << "Ipratropium Bromide\n  Antocholeinergic bronchodilator chemically related to atropine.\n  Indications: bronchospasm.\n  Countraindications: Soy or peanut allergy or the metered dose inhaler not nebulized solution because its in the propellant.\n\n";
+      
+      std:: string ipr[4] = {"0.5", "mg", "albuterol", "nebulizer"};
+      num = false;
+      std:: string ipr_num[1] = {"null"};
+      peds = false;
+      std:: string ipr_peds[1] = {"null"};
+      max  = false;
+      std:: string max_ipr[1] = {"null"};
+      max_doses = 1;
+      
+      question(ipr, 4, num, ipr_num, 1, peds, ipr_peds, 1,  max, max_ipr, 1, max_doses);
+      std::cout << "\n";
+      break;
+    }
+      
+    case 10: {
+      std::cout << "ONDANSETRON\n  Anti-emetic, decreases nausea/vomiting.\n  Indications: nausea/vomiting.\n  Contraindications: Use with caution with first trimester of pregnancy.\n\n";
+      
+      std:: string ond[3] = {"4", "mg", "ODT"};
+      num = false;
+      std:: string ond_num[1] = {"null"};
+      peds = true;
+      std:: string ond_peds[2] = {"2", "mg"};
+      max  = true;
+      std:: string max_ond[3] = {"8", "mg", "4"};
+      max_doses = 2;
+      
+      question(ond, 3, num, ond_num, 1, peds, ond_peds, 2,  max, max_ond, 3, max_doses);
+      std::cout << "\n";
+      break;
+    }
+      
+    case 11: {
+      std::cout << "PHENYLEPHRINE\n  Vasoconstriction of the nasal mucosa, decrease nasal bleeding.\n  Indications: epitaxis (nosebleed).\n  Contraindications: none.\n\n";
+      
+      std:: string phe[3] = {"2", "sprays"};
+      num = false;
+      std:: string phe_num[1] = {"null"};
+      peds = false;
+      std:: string phe_peds[1] = {"null"};
+      max  = false;
+      std:: string max_phe[1] = {"null"};
+      max_doses = 1;
+      
+      question(phe, 3, num, phe_num, 1, peds, phe_peds, 2,  max, max_phe, 3, max_doses);
+      std::cout << "\n";
+      break;
+    }
+      
+      // end switch statement
+    }
+    
+    // end question loop
+  }
+  
+  // end of main()
+  return 0;
+}

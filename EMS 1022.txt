@@ -104,8 +104,8 @@ Selective beta-2 adrenergic receptor agonist, smooth muscle relaxant, bronchodil
 * Indications: Respiratory distress due to bronchial asthma or COPD
 * Contraindications: Severe tachycardia
 * Side effects: Increased HR, tremors, palpitations
-
-`Epinepherine`
+g++ 
+`Epinephrine`
 > Epi-pen, Epi-pen jr, Twinject
 > Dose: Adults (>66lbs) **0.3mg** IM, peds (<66lbs) **0.15mg** IM. In the middle of the vastus lateralis 
 Bronchodilation, vasoconstriction
