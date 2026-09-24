@@ -67,12 +67,16 @@ void contraindications(vector<string> answer){
 void dosages(vector<string> answer, bool peds, std::vector<string> adult, std::vector<string> child, int max, vector<string> max_dose){
   bool p;
   bool mx;
+  bool mx_a;
   std::string a;
+  std::string aLC;
   int u_mx;
   
   std::cout << "Y/N: Are there different doses for adults vs children? ";
   std::cin >> a;
-  if(a == "N" ||a == "n"){p = false;} else if(a == "Y" ||a== "y"){p = true;}
+  aLC = tolowercase(a);
+  std::cout << aLC << "\n";;
+  if(aLC == "n"){p = false;} else if(aLC == "y"){p = true;}
   if(p == peds){std::cout << "Correct!\n";} else{std::cout << "Incorrect :(\n";}
   std::cin.ignore();
   
@@ -86,11 +90,15 @@ void dosages(vector<string> answer, bool peds, std::vector<string> adult, std::v
     check_answer(answer);
   }
 
-  std::cout << "Y-N-N/a: Can you administer this drug multiple times? ";
+  if(max > 1){mx_a = true;}else if(max <= 1){mx_a = false;}
+  std::cout << "Y-N-X: Can you administer this drug multiple times? ";
   std::cin >> a;
-  if(a == "N" ||a == "n" || a == "n/a" || a == "N/a" || a == "N/A"){mx = false;} else if(a == "Y" ||a== "y"){mx = true;}
+  aLC = tolowercase(a);
+  std::cout << aLC << "\n";;
+  if(aLC == "n" || aLC == "x"){mx = false;} else if(aLC == "y"){mx = true;}
+  if(mx == mx_a){std::cout << "Correct!\n";} else{std::cout << "Incorrect :(\n";}
 
-  if(mx==true){
+  if(mx_a==true){
     std::cout << "How many times can you administer the drug? ";
     std::cin >> u_mx;
     if(u_mx == max){std::cout << "Correct!\n";} else{std::cout << "Incorrect :(\nCorrect answer was " << max << "\n";}

@@ -250,6 +250,8 @@ Exchange: damage to alveoli that limits gas exchange, lowers ETCO2
 **Disorders**
 
 `Emphysema`
+Air trapped underneath the skin--feels like rice crispies.
+
 > Physiology/pathophys:
 > Signs/symptoms:
 > Vital sign changes:
@@ -274,66 +276,55 @@ Exchange: damage to alveoli that limits gas exchange, lowers ETCO2
 > Additional Notes/memory aids:
 
 `Pneumonia`
-> Physiology/pathophys:
-> S/s: Malaise, decreased appetite, fever, cough, dyspnea, tachypnea and tachycardia; sharp, localized chest pain, abnormal breath sounds, diaphoresis, cyanosis and low pulse ox in severe cases
-> Vital sign changes:
-> Questions during assessment:
-> Treatment: Humidified O2, to the hospital, maybe refuse and go to PCP
-> Additional Notes/memory aids:
+> Signs: fever, cough, dyspnea, tachypnea, tachycardia, abnormal breath sounds, diaphoresis, cyanosis and low pulse ox in some cases.
+> Symptoms: Malaise, decreased appetite, sharp localized chest pain.
+> Treatment: humidified O2, to the hospital, or they may refuse and go to PCP
 
 `Pulmonary Embolism` **PE**
-> Physiology/pathophys: obstruction of blood flow somewhere in the pulmonary arteries prevents the blood from reaching the lungs for oxygenation. Risks: sedentary position, long bone fractures, smoking, birth control (pills); DVT (deep vein thrombosis)
-> S/s: Cyanosis, hypoxia, restlessness/anxiety, tacypnea sharp localized pain
-> Vital sign changes: Increased HR, increased RR, falling BP, ETCO2 decrease, lung sounds would be clear, cool clammy skin, cough (50% cases), distended neck vein
-> Questions during assessment:
-> Treatment
-> Additional Notes/memory aids:
+An obstruction of blood flow in the pulmonary arteries that prevents blood from reaching the lungs for oxygenation. Risks for developing PE include sedentary position, long bone fractures, smoking, and birth control. Things that increase the likelihood of a clot (ie DVT) forming and traveling to the lungs.
+> Signs: cyanosis, hypoxia, tachypnea, tachycardia, falling BP, ETCO2 decrease, cool clammy skin, distended neck vein, cough (50% cases). Still would have clear lung sounds.
+> Symptoms: restlessness/anxiety, sharp localized pain.
+> Treatment: Get to the hospital ASAP, O2 for hypoxia but you can't save them.
 
 `Pulmonary Edema`
-Acute pulmonary edema as part of congestive heart failure (CHF)
-> Physiology/pathophys:
-> S/s: Dyspnea, orthopnea (difficulty breathing depending on position), frothy sputum, tachycardia, tachypnea, tripod positioning, fatigue, anxiety or confusion, crackles and possibly wheezing, distended neck veins, possible edematous extremities, other findings consistent with cardiac compromise
-> Vital sign changes:
-> Questions during assessment:
-> Treatment
-> Additional Notes/memory aids:
+Acute pulmonary edema as part of congestive heart failure (CHF). Buildup of fluid.
+> Signs: Dyspnea, orthopnea (difficulty breathing dependent on position), frothy sputum, tachycardia, tachypnea, tripod position, crackles and possible wheezing, distended neck veins, possible peripheral edema.
+> Symptoms: fatigue, anxiety or confusion.
+> Treatment:
 
 CHF you can tell which side of the heart failure is on, left heart causes pulmonary edema; right heart causes peripheral edema.
 
 `Pneumothorax`
-> Physiology/pathophys:
-> S/s:
-> Vital sign changes:
-> Questions during assessment:
-> Treatment:
-> Additional Notes/memory aids:
+Spontaneous (bleb ruptures), traumatic, hemothorax, tension (putting pressure on the heart and other lung).
+Air, blood, or other fluids leaking into pleural space and compressing the lungs.
+> Signs: decreased breath sounds to one side, possible subcutaneous emphysema, tachypnea, tachycardia, pallor or cyanosis, deteriorating pulse ox.
+> Symptoms: sudden onset shortness of breath, sudden onset of *sharp* chest or shoulder pain
+> Treatment: Use a needle to drain if BP is hypotensive or systolic < 100, occlusive bandage for open traumatic pneumothorax, if closed pneumothorax give high flow O2 and call ALS.
 
 `Hyperventilation`
-> Physiology/pathophys:
-> S/s:
-> Vital sign changes:
-> Questions during assessment:
-> Treatment
-> Additional Notes/memory aids:
+Caused by nervousness and anxiety, emotionally charged condition, patient caught in a hyperventilation-hypoxia loop.
+> Signs: dyspnea, tachypnea, tachycardia, hand and feet spasm
+> Symptoms: dizziness, short of breath
+Treatment: Need to relax patient with coaching, maybe explain what is happening physiologically to show you know what you're doing. They don't really need actual meds or treatment but O2 can be sort of a placebo. Do not tell them to calm down.
 
 `Epiglottis`
-> Physiology/pathophys:
-> S/s:
+> Physiology/pathophys: Inflammation of the epiglottis
+> S/s: Difficulty swallowing, hurts every time they swallow, stops swallowing. Maybe fever from bacterial infection, change in voice
 > Vital sign changes:
 > Questions during assessment:
-> Treatment
+> Treatment: Tracheal intubation, call ALS. Don't mess with it at all/
 > Additional Notes/memory aids:
 
 `Pertussis`
-> Physiology/pathophys:
+> Physiology/pathophys: Whooping cough, they've expired all the air in their lungs and then take in a very big and rough breath, and then that makes them cough more.
 > S/s:
 > Vital sign changes:
 > Questions during assessment:
 > Treatment
-> Additional Notes/memory aids:
+> Additional Notes/memory aids: Mask up
 
 `Cystic Fibrosis`
-> Physiology/pathophys:
+> Physiology/pathophys: Lungs can't clear out mucus because they don't move as well.
 > S/s:
 > Vital sign changes:
 > Questions during assessment:
@@ -341,9 +332,196 @@ CHF you can tell which side of the heart failure is on, left heart causes pulmon
 > Additional Notes/memory aids:
 
 `Upper Respiratory Infection (URI)`
-> Physiology/pathophys:
+> Physiology/pathophys: Infection that can well and occlude the airway.
 > S/s:
 > Vital sign changes:
 > Questions during assessment:
-> Treatment
+> Treatment: Fix the infection/cause of infection.
 > Additional Notes/memory aids:
+
+iGel sizes:
+3 :  4-5 ft
+4 :  5-6 ft
+5 :  6+ ft
+
+# Respiratory Flow
+1. Establish open airway
+2. Suction as necessary
+3. Ventilate if needed
+4. Supplemental O2 if hypoxia is present
+5. Airway adjuncts
+6. Take RR, lung sounds, spo2
+7. ETCO2/capnography
+8. MDI/CPAP
+
+# Cardiac
+
+`Characteristics of muscle cells`
+> Excitability - respond to electrical stimulation (bathmotropy)
+> Conductivity - transmit stimulation to other cells (dromotropy)
+> Contractility - shorten and cause a muscle contraction (intropy)
+> Automaticity - generate their own electrical impulse
+
+`Acute Coronary Syndrome (ACS)`
+> Angina pectoris "Chest pain"
+
+Stable(not true ACS)
+- occurs with exertion or stress only
+- relieved with rest and/or nitro
+
+Unstable (true ACS)
+- occurs at rest
+- prolonged or worsening
+- nocturnal angina (chest pain wakes them up)
+- stable that does not goes away within 20 min/3 nitro doses
+
+Treatment going to be the same, aspirin + nitro maybe O2
+
+> Acute Myocardial Infarction (AMI)
+- STEMI S-T Myocardial Infarction
+- on an ekg, the S-T point is elevated above baseline.
+
+> NSTEMI
+- Heart attack without the specific STEMI elevation, may not show up on ekg.
+
+> Silent
+- No symptoms or non-traditional symptoms.
+- Elderly patients, female patients, and diabetics more likely.
+
+Always need to rule out cardiac no matter what.
+
+`Coronary Artery Disease`
+trick: add an F in front
+Arteriosclerosis -- hardening of the blood vessels
+`F`art--
+
+Atherosclerosis -- clogging of arteries with plaque and cholesterol
+`F`at--
+
+Fibrillation = disorganized electrical activity of the heart
+
+Tamponade = blockage of blood
+
+When systolic starts to fall and diastolic increases, sign of pericardial tamponade. Eventually they are the same.
+
+# Shock
+
+**Recognition**
+- Hypoperfusion;  State of inadequate tissue perfusion.
+Cells need O2 and nutrients, and need to get rid of waste products.
+^ Anytime there is a breakdown in *either* of these, that is shock.
+
+**Causes of Shock**
+Mnemonic: SHRIMP CAN
+`S` eptic
+`H` ypovolemic
+`R` espiratory
+`I` nsulin ::  a problem getting glucose into cells, a type of metabolic
+`M` etabolic :: cells don't have the ability to produce energy because lacking nutrients
+`P` sychogenic
+
+`C` ardiogenic
+`A` naphylactic
+`N` eurogenic
+
+> Physiology of perfusion
+Normal perfusion includes a pump piping fluid through pipes into tissue.
+
+` Pump Problems `
+CO decreases due to affected stroke volume or HR
+- Cardiac arrest, arrhythmias
+
+` Pipe Problem `
+Container problem, requires more fluid to deliver same amount of nutrients.
+
+` Fluid Problem `
+Container breaks, losing blood, lack of fluid.
+Buildup of toxins or lack of O2 carrying capacity.
+
+**Phases of Shock**
+1. Initial stage
+- Hypoxia
+
+2. Compensated
+- Acidosis -> hyperventilation
+- epinephrine and norepinephrine increase HR and BP a small amount
+- blood diverted to vital organs
+- low urine output
+
+3. Decompensated/progressive (ALOC - altered level of consciousness)
+- compensatory mechanisms fail
+- pre-capillary sphincters relax and blood starts to pool in capillaries.\
+ - mottled skin
+
+4. Irreversible/Refractory
+- Vital organ failure and death
+ - They will die without constant treatment
+- ATP breaks down into adenosine and will not be produced fast enough to restore ATP
+
+` Timeline of ALOC `
+Goes backwards from AAOx4
+
+` MAP = (2D + S) / 3 `
+ie for a HR @ 80 BPM :: 120/80 = (2*80+120)/3 = (160 + 120)/3 = 280/3 = 93.3
+
+Need MAP > 60 to perfuse brain and kidneys
+- Acute kidney injury starts in 20min w MAP<60. 'normal' 70-110.
+
+Can include this in a radio or hospital report.
+
+**Shock Treatment Plan**
+1. Administer O2
+2. Avoid excess heat loss (clotting cascade)
+3. Position of comfort
+- Elevate legs 10-12in 
+(a lil useful in decompensated progressing into refractory shock, limited benefit)
+4. Monitor vital signs
+5. Transport rapidly
+6. ALS for fluid bolus
+- permissive hypotension.
+
+Pump, Pipes, or Fluid
+Septic: Pipes (starts as fluid)
+Hypovolemic: fluid
+Respiratory: fluid
+Insulin: fluid
+Metabolic: fluid
+Psychogenic: pipes
+Cardiogenic: pump
+Anaphylactic: pipes
+Neurogenic: pipes
+
+Obstructive
+- Obstruction of blood flow (preload)
+  - tamponade
+  - tension hemo or pneumo
+  - pulmonary embolism
+- narrow pulse pressure
+- distended JVD
+  
+Hypovolemic (fluid)
+- Loss of volume
+  - hemorrhage
+  - vomiting
+  - diarrhea
+  - burns
+- normal pulse pressure (systolic - diastolic)
+- flat neck veins
+  
+Distributive (pipes) (relative hypovolemia)
+- Inability to use oxygen/energy
+  - sepsis
+  - anaphylactic
+  - neurogenic
+- widened pulse pressure
+- no JVD
+  
+ Cardiogenic (pump)
+- Pump failure
+   - MI
+   - CHF
+   - Dysrhythmias
+   - valve issues
+- changes to cardiac
+
+Line of demarcation: skin signs different above and below an injury.

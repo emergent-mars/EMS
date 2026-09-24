@@ -1,0 +1,3 @@
+Program that tests knowledge of NREMT and Denver Metro drug dosages, indications, and contraindications through user input, not case sensitive. Written in c++, runs best compiled and ran through your computer's terminal but you can use https://www.onlinegdb.com/online_c++_compiler to compile it online if the command line scares you.
+
+Here is a link with it already entered into the website that will be good for 1 month as of 9/24/26:  https://onlinegdb.com/0X7dIP5eh
