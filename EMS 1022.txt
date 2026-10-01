@@ -107,7 +107,7 @@ Selective beta-2 adrenergic receptor agonist, smooth muscle relaxant, bronchodil
 g++ 
 `Epinephrine`
 > Epi-pen, Epi-pen jr, Twinject
-> Dose: Adults (>66lbs) **0.3mg** IM, peds (<66lbs) **0.15mg** IM. In the middle of the vastus lateralis 
+> Dose: Adults (>66lbs) **0.3mg** IM, peds (<66lbs) **0.15mg** IM. In the middle of the vastus lateralis. Can repeat dose after 15min if it is not working or symptoms return, but call doc first.
 Bronchodilation, vasoconstriction
 * Indications: Anaphylactic w respiratory distress/airway comp and/or hypoperfusion.
 * Contraindications: *None* in a life-threatening event
@@ -251,29 +251,21 @@ Exchange: damage to alveoli that limits gas exchange, lowers ETCO2
 
 `Emphysema`
 Air trapped underneath the skin--feels like rice crispies.
-
-> Physiology/pathophys:
-> Signs/symptoms:
-> Vital sign changes:
-> Questions during assessment:
+> Signs: Thin, barrel chest appearance, generally unproductive cough, prolonged exhalation, pursed lip breathing, diminished breath sounds, possible wheezing or rhonchi, dyspnea on exertion, pink complexion, tachypneic and tachycardic, tripod positioning.
+> Symptoms
 > Treatment
-> Additional Notes/memory aids:
 
 `Chronic Bronchitis`
-> Physiology/pathophys:
-> S/s:
-> Vital sign changes:
-> Questions during assessment:
-> Treatment
-> Additional Notes/memory aids:
+
+> Signs: Typically overweight, chronic cyanotic complexion, dyspnea but not as severe emphysema, vigorous productive cough, coarse ronchi, heard upon auscultation, wheezing and possible crackles, frequent episodes of respiratory infections (3 months x 2 years)
+> Symptoms:
+> Treatment:
 
 `Asthma / Status Asthmaticus`
-> Physiology/pathophys:
-> S/s:
-> Vital sign changes:
-> Questions during assessment:
-> Treatment
-> Additional Notes/memory aids:
+
+> Signs: Dyspnea (commonly progressively worsens), nonproductive cough, wheezing upon asultation?, tachypnea and tachycardia. severe cases: inability to speak, cyanosis, absent breath sounds, low pulse ox, confusion, vital sign changes
+> Symptoms: anxiety, restlessness
+> Treatment: Albuterol, Ipratropium Bromide potentially, O2
 
 `Pneumonia`
 > Signs: fever, cough, dyspnea, tachypnea, tachycardia, abnormal breath sounds, diaphoresis, cyanosis and low pulse ox in some cases.
@@ -316,28 +308,22 @@ Treatment: Need to relax patient with coaching, maybe explain what is happening 
 > Additional Notes/memory aids:
 
 `Pertussis`
-> Physiology/pathophys: Whooping cough, they've expired all the air in their lungs and then take in a very big and rough breath, and then that makes them cough more.
-> S/s:
-> Vital sign changes:
-> Questions during assessment:
-> Treatment
-> Additional Notes/memory aids: Mask up
+Whooping cough, they've expired all the air in their lungs and then take in a very big and rough breath, and then that makes them cough more. Contagious
+> Signs:
+> Symptoms:
+> Treatment:
 
 `Cystic Fibrosis`
-> Physiology/pathophys: Lungs can't clear out mucus because they don't move as well.
-> S/s:
-> Vital sign changes:
-> Questions during assessment:
-> Treatment
-> Additional Notes/memory aids:
+Lungs can't clear out mucus because they don't move as well.
+> Signs:
+> Symptoms:
+> Treatment:
 
 `Upper Respiratory Infection (URI)`
-> Physiology/pathophys: Infection that can well and occlude the airway.
-> S/s:
-> Vital sign changes:
-> Questions during assessment:
-> Treatment: Fix the infection/cause of infection.
-> Additional Notes/memory aids:
+Infection that can well and occlude the airway.
+> Signs:
+> Symptoms:
+> Treatment: 
 
 iGel sizes:
 3 :  4-5 ft
@@ -403,6 +389,18 @@ Fibrillation = disorganized electrical activity of the heart
 Tamponade = blockage of blood
 
 When systolic starts to fall and diastolic increases, sign of pericardial tamponade. Eventually they are the same.
+
+`CHF`
+> Signs: peripheral edema (right side), JVD, elevated blood pressure, fluid in lungs (crackles), sleeping upright, pink frothy spetum
+> Symptoms:
+> Treatment:
+
+BP rough estimate tips: if 
+- radial pulse
+- systolic is at least 90
+- if brachial, 80
+- if femoral, 70. 
+- if carotid, 60
 
 # Shock
 
@@ -481,25 +479,27 @@ Can include this in a radio or hospital report.
 - permissive hypotension.
 
 Pump, Pipes, or Fluid
-Septic: Pipes (starts as fluid)
-Hypovolemic: fluid
-Respiratory: fluid
-Insulin: fluid
-Metabolic: fluid
-Psychogenic: pipes
-Cardiogenic: pump
-Anaphylactic: pipes
-Neurogenic: pipes
+`S`eptic: Pipes (starts as fluid)
+`H`ypovolemic: fluid
+`R`espiratory: fluid
+`I`nsulin: fluid
+`M`etabolic: fluid
+`P`sychogenic: pipes
 
-Obstructive
+`C`ardiogenic: pump
+`A`naphylactic: pipes
+`N`eurogenic: pipes
+
+**Obstructive**
 - Obstruction of blood flow (preload)
   - tamponade
   - tension hemo or pneumo
   - pulmonary embolism
 - narrow pulse pressure
+- thready pulse
 - distended JVD
   
-Hypovolemic (fluid)
+**Hypovolemic (fluid)**
 - Loss of volume
   - hemorrhage
   - vomiting
@@ -508,15 +508,16 @@ Hypovolemic (fluid)
 - normal pulse pressure (systolic - diastolic)
 - flat neck veins
   
-Distributive (pipes) (relative hypovolemia)
+**Distributive (pipes) (relative hypovolemia)**
 - Inability to use oxygen/energy
   - sepsis
   - anaphylactic
   - neurogenic
 - widened pulse pressure
+- bounding pulse
 - no JVD
   
- Cardiogenic (pump)
+**Cardiogenic (pump)**
 - Pump failure
    - MI
    - CHF
@@ -525,3 +526,36 @@ Distributive (pipes) (relative hypovolemia)
 - changes to cardiac
 
 Line of demarcation: skin signs different above and below an injury.
+
+**Allergic Reactions**
+- Antigen: any foreign substance that gets into the body
+- Antibody: produced by the body in response to the antigen for the body to fight it
+- Allergen: antigen this capable of produces an allergic reaction
+- Allergic reaction: localized reaction to an allergen
+- Anaphylaxis: systemic reaction to an allergen
+    - anaphylactic shock is when it affects lungs and heart
+
+Antigens enter the body through injection, inhalation, ingestion, and absorption.
+Injection -- needle, stinger, fangs
+Inhalation -- through absorption in respiratory system
+Ingestion -- through absorption in the GI system
+Absorption -- through absorption in the skin
+
+Process
+Body is exposed to antigen, WBCs signal production of an antibody that is specific to an antigen called sensitization. Mast cells with IgE attach to allergen and trigger the release of histamine.
+
+Histamine dilates blood vessels and makes them abnormally permeable, which also causes vessels to leak fluid. Leaking fluid results in inflammation, warming and irritation of the skin, itching, watery eyes.
+
+Urticaria (hives) -- dark red, raised, itchy bumps.
+Edema (angioedema), which can cause airway swelling.
+
+Anaphylactic Shock:
+- ALOC
+- BP<90
+
+Treatment:
+- For allergic reactions (EMT-B): Transport, oxygen, airway management.
+    - At EMT-I/P level, can give antihistamines.
+- For anaphylaxis (EMT-B): Transport, epi, o2 + airway management. with iv cert, draw it up yourself
+
+# Abdominal
