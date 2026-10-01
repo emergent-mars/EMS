@@ -93,7 +93,7 @@ void side_effects(vector<string> answer){
 
 int main(){
   // main function
-  bool yes;
+  bool yes = false;
   std::string q;
   int num_questions;
   std::vector<int> pool; // randomize in each question block w number of questions
