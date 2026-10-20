@@ -17,10 +17,10 @@ std::vector<int> random(int n){
   
   // shuffle pool
   std::shuffle(pool.begin(), pool.end(), gen);
-
   return pool;
 }
 
+// convert strings to lowercase for comparison
 string tolowercase(string a){
   for(char &c : a){
     c = static_cast<char>(std::tolower(static_cast<unsigned char>(c)));
@@ -29,7 +29,7 @@ string tolowercase(string a){
 }
 
 
-// questions
+// universal answer check
 void check_answer(std::vector<string> answer){
   // initialize
   std::string user_answer;
@@ -56,51 +56,66 @@ void check_answer(std::vector<string> answer){
   user_answer.clear();
 }
 
+// medication questions
 void brand_name(vector<string> answer){
-  std::cout << "Brand name? ";
+  std::cout << ">>  Brand name?\n";
   check_answer(answer);
-  std::cout << "\n";
 }
 
 void actions(vector<string> answer){
-  std::cout << "What does this drug do? ";
+  std::cout << ">>  What does this drug do?\n";
   check_answer(answer);
-  std::cout << "\n";
 }
 
 void indications(vector<string> answer){
-  std::cout << "What are the indications for this drug? ";
+  std::cout << ">>  What are the indications for this drug?\n";
   check_answer(answer);
-  std::cout << "\n";
 }
 void contraindications(vector<string> answer){
-  std::cout << "What are the contraindications for this drug? ";
+  std::cout << ">>  What are the contraindications for this drug?\n";
   check_answer(answer);
-  std::cout << "\n";
 }
 
 void dosages(vector<string> answer){
-  std::cout << "What is the dosage for this drug? (include max dose if applicable) ";
+  std::cout << ">>  What is the dosage for this drug? (include max dose if applicable)\n";
   check_answer(answer);
-  std::cout << "\n";
 }
 
+// conditions and disorders questions
 void side_effects(vector<string> answer){
-  std::cout << "What are the side effects? ";
+  std::cout << ">>  What are the side effects?\n";
   check_answer(answer);
-  std::cout << "\n";
+}
+
+void patho(vector<string> answer){
+  std::cout << ">>  What is it?\n";
+  check_answer(answer);
+}
+
+void signs(vector<string> answer){
+  std::cout << ">>  What are important signs?\n";
+  check_answer(answer);
+}
+
+void symptoms(vector<string> answer){
+  std::cout << ">>  What are important symptoms?\n";
+  check_answer(answer);
+}
+
+void treatment(vector<string> answer){
+  std::cout << ">>  What would treatment for this condition be?\n";
+  check_answer(answer);
 }
 
 int main(){
-  // main function
+  
   bool yes = false;
   std::string q;
   int num_questions;
   std::vector<int> pool; // randomize in each question block w number of questions
 
-  // drugs case/switch
-
   // NREMT drugs
+  // asks for brand_name(), actions(), indications(), contraindications(), dosages(), side_effects()
   std::cout << "Review NREMT drugs? Y/N: ";
   std::cin >> q;
   std::cin.ignore();
@@ -109,7 +124,7 @@ int main(){
     pool = random(6);
     for(int drug : pool){
       switch(drug){
-      case 1: {std:cout << "Aspirin\n";
+      case 1: {std:cout << "Aspirin\n-\n";
 	std::vector<string> asp_brand = {"bayer", "ecotrin"};
 	brand_name(asp_brand);
 	std::vector<string> asp_actions = {"inhibit", "platlet", "aggregation"};
@@ -124,7 +139,7 @@ int main(){
 	side_effects(asp_side_effects);
 	std::cout << "---\n";
 	break;}
-      case 2: {std::cout << "Albuterol\n";
+      case 2: {std::cout << "Albuterol\n-\n";
 	  std::vector<string> alb_brand = {"proventil", "ventolin"};
 	  brand_name(alb_brand);
 	  std::vector<string> alb_actions = {"selective", "beta", "2", "adrnergic", "receptor", "agonist", "smooth", "muscle", "relaxant", "bronchodilaion"};
@@ -139,7 +154,7 @@ int main(){
 	  side_effects(alb_side_effects);
 	  std::cout << "---\n";
 	  break;}
-      case 3: {std::cout << "Epinephrine\n";
+      case 3: {std::cout << "Epinephrine\n-\n";
 	  std::vector<string> epi_brand = {"epipen", "twinject"};
 	  brand_name(epi_brand);
 	  std::vector<string> epi_actions = {"bronchodilation", "vasoconstriction"};
@@ -154,7 +169,7 @@ int main(){
 	  side_effects(epi_side_effects);
 	  std::cout << "---\n";
 	  break;}
-      case 4: {std::cout << "Nalaxone\n";
+      case 4: {std::cout << "Nalaxone\n-\n";
 	  std::vector<string> nal_brand = {"narcan"};
 	  brand_name(nal_brand);
 	  std::vector<string> nal_actions = {"opioid", "receptor", "antagonist"};
@@ -165,11 +180,11 @@ int main(){
 	  contraindications(nal_contraindications);
 	  std::vector<string> nal_dosage = {"0.5", "mg", "IN", "IV", "2 mg"};
 	  dosages(nal_dosage);
-	  std::vector<string> nal_side_effects = {"opioid withdrawal", "increased HR", "nausea", "vomiting", "PE", "agitation"};
+	  std::vector<string> nal_side_effects = {"opioid withdrawal", "increased HR", "nausea", "vomiting", "pulmonary edema", "agitation"};
 	  side_effects(nal_side_effects);
 	  std::cout << "---\n";
 	  break;}
-      case 5: {std::cout << "Nitroglycerin\n";
+      case 5: {std::cout << "Nitroglycerin\n-\n";
 	  std::vector<string> nit_brand = {"nitrostat", "nitro-bid"};
 	  brand_name(nit_brand);
 	  std::vector<string> nit_actions = {"dilates blood vessels", "decrease", "workload", "heart", "decrease MVO2"};
@@ -184,7 +199,7 @@ int main(){
 	  side_effects(nit_side_effects);
 	  std::cout << "---\n";
 	  break;}
-      case 6: {std::cout << "Oral Glucose\n";
+      case 6: {std::cout << "Oral Glucose\n-\n";
 	  std::vector<string> glu_brand = {"glutose", "insta-glucose"};
 	  brand_name(glu_brand);
 	  std::vector<string> glu_actions = {"increase", "blood", "glucose"};
@@ -197,13 +212,14 @@ int main(){
 	  dosages(glu_dosage);
 	  std::vector<string> glu_side_effects = {"none if administered properly"};
 	  side_effects(glu_side_effects);
-	  std::cout << "---\n";
+	  std::cout << "\n---\n";
 	  break;}
       } // end of case/switch
     } // end of case/switch loop
   } // end of NREMT drugs
-  
-  
+
+  // Denver Metro Drugs
+  // asks for brand_name(), actions(), indications(), contraindications(), dosages(), side_effects()
   std::cout << "Review Denver Metro drugs? Y/N: ";
   std::cin >> q;
   std::cin.ignore();
@@ -212,7 +228,7 @@ int main(){
     pool = random(5);
     for(int drug : pool){
       switch(drug){
-      case 1: {std::cout << "Acetaminophen\n";
+      case 1: {std::cout << "Acetaminophen\n-\n";
 	  std::vector<string> ace_brand = {"tylenol"};
 	  brand_name(ace_brand);
 	  std::vector<string> ace_actions = {"elevates pain threshold", "readjusts", "hypothalamic", "temperature-regulatory center"};
@@ -227,7 +243,7 @@ int main(){
 	  side_effects(ace_side_effects);
 	  std::cout << "---\n";
 	  break;}
-      case 2: {std::cout << "Ibuprofen\n";
+      case 2: {std::cout << "Ibuprofen\n-\n";
 	  std::vector<string> ibu_brand = {"motrin", "advil"};
 	  brand_name(ibu_brand);
 	  std::vector<string> ibu_actions = {"decrease", "pain", "inflammation"};
@@ -242,7 +258,7 @@ int main(){
 	  side_effects(ibu_side_effects);
 	  std::cout << "---\n";
 	  break;}
-      case 3: {std::cout << "Ipratropium Bromide\n";
+      case 3: {std::cout << "Ipratropium Bromide\n-\n";
 	  std::vector<string> ipr_brand = {"atrovent"};
 	  brand_name(ipr_brand);
 	  std::vector<string> ipr_actions = {"bronchodilation"};
@@ -257,7 +273,7 @@ int main(){
 	  side_effects(ipr_side_effects);
 	  std::cout << "---\n";
 	  break;}
-      case 4: {std::cout << "Ondansetron\n";
+      case 4: {std::cout << "Ondansetron\n-\n";
 	  std::vector<string> ond_brand = {"zofran"};
 	  brand_name(ond_brand);
 	  std::vector<string> ond_actions = {"antiemetic"};
@@ -272,7 +288,7 @@ int main(){
 	  side_effects(ond_side_effects);
 	  std::cout << "---\n";
 	  break;}
-      case 5: {std::cout << "Phenylephrine\n";
+      case 5: {std::cout << "Phenylephrine\n-\n";
 	  std::vector<string> phe_brand = {"neo-synephrine"};
 	  brand_name(phe_brand);
 	  std::vector<string> phe_actions = {"decrease", "nose", "bleed"};
@@ -291,16 +307,65 @@ int main(){
     } // end of case/switch loop
   } // end of metro drugs
   
-      // Home Meds
-      
-      
-      
-      
-  // Medical Conditions
-
-
-
-
+  // Respiratory Conditions
+  // asks for patho(), signs(), symptoms(), treatment()
+  std::cout << "Review respiratory conditions? Y/N: ";
+  std::cin >> q;
+  std::cin.ignore();
+  if(q == "Y" || q == "y"){yes = true;}
+  if(yes){
+    pool = random(12);
+    std::cout << "Signs are what you notice in the patient.\nSymptoms are what the patient describes to you.\n\n";
+    for(int condition : pool){
+      switch(condition){
+      case 1:{std::cout << "Emphysema\n-\n";
+	  std::vector<string> emp_patho = {"air", "underneath", "skin"};
+	  patho(emp_patho);
+	  std::vector<string> emp_signs = {"barrel", "chest", "unproductive cough", "prolonged exhalation", "pursed lip breathing", "diminished", "wheezing", "ronchi", "dyspnea on exertion", "pink skin", "tachypneic", "tachycardic", "tripod", "rice krispies on palpation"};
+	  signs(emp_signs);
+	  std::cout << "---\n";
+	  break;}
+      case 2:{std::cout << "Chronic BronchitiS\n-\n";
+	  std::vector<string> chb_patho = {"inflammation", "airways"};
+	  patho(chb_patho);
+	  std::vector<string> chb_signs = {"overweight", "chronic cyanosis", "mild dyspnea", "productive cough", "coarse ronchi", "wheezing", "crackles", "frequent episodes of respiratory infections"};
+	  signs(chb_signs);
+	  std::cout << "---\n";
+	  break;}
+      case 3:{std::cout << "Asthma\n-\n";
+	  std::cout << "---\n";
+	  break;}
+      case 4:{std::cout << "Pneumonia\n-\n";
+	  std::cout << "---\n";
+	  break;}
+      case 5:{std::cout << "Pulmonary Embolism\n-\n";
+	  std::cout << "---\n";
+	  break;}
+      case 6:{std::cout << "Pulmonary Edema\n-\n";
+	  std::cout << "---\n";
+	  break;}
+      case 7:{std::cout << "Pneumothorax\n-\n";
+	  std::cout << "---\n";
+	  break;}
+      case 8:{std::cout << "Hyperventilation\n-\n";
+	  std::cout << "---\n";
+	  break;}
+      case 9:{std::cout << "Epiglottitis\n-\n";
+	  std::cout << "---\n";
+	  break;}
+      case 10:{std::cout << "Pertussis\n-\n";
+	  std::cout << "---\n";
+	  break;}
+      case 11:{std::cout << "Cystic Fibrosis\n-\n";
+	  std::cout << "---\n";
+	  break;}
+      case 12:{std::cout << "Upper Respiratory Infection\n-\n";
+	  std::cout << "---\n";
+	  break;}
+      } // end case/switch
+    } // end question loop
+  } // end of respiratory conditions
+  
   
   return 0;
 }

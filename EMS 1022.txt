@@ -87,7 +87,7 @@ beta-2 = controls lungs, bronchodilation
 `T`here -- Time, at the correct time, not expired
 `D`ude -- Documentation
 
-**National Registry Drugs**
+**National Registry Meds**
 
 `Aspirin` (ASA)
 > Bayer, Ecotrin
@@ -181,7 +181,8 @@ Vasoconstriction of the nasal mucosa, decrease nasal bleeding.
 * Contraindications: None
 * Side effects: Nasal dryness, burning or stinging (avoid contact with the eyes)
 
-# Respiratory Emergencies
+# Pathophysiology
+
 **Normal breathing**
 * Stimulation to breathe is CO2
 * Diaphragm active contraction on inspiration, relaxation on expiration
@@ -208,8 +209,8 @@ Respiratory...
 
 `Pulse Ox`
 Too much O2 can be harmful.
-In cases of cardiac chest pain, stroke, and ROSC -- need to use the 94% SpO2% measurement to guide if you give O2-- >94% don't give O2.
-ROSC = heart starts beating on its own after arrest
+> In cases of cardiac chest pain, stroke, and ROSC -- need to use the 94% SpO2% measurement to guide if you give O2-- >94% don't give O2.
+> `ROSC = heart starts beating on its own after arrest.`
 Class 1 - conditions for which there is evidence, general agreement, or both that a given procedure or treatment is useful and effective.
 
 *O2 should be administered to the patient suspected of ACS if they are dyspneic, hypoxemic, has obvious signs of heart failure, or has a spO2 <90%*
@@ -218,14 +219,9 @@ Class 1 - conditions for which there is evidence, general agreement, or both tha
 > Visualize for any type of foreign body in the airway, when/how to remove. Finger sweep, suction, get ALS.
 If they are awake and talking, they have an open airway.
 
-PPV == ventilating for someone
+`PPV` == positive pressure ventilation - ventilating for someone
 
-iGel (supraglottic) invasive airway tube, 3 lengths.
-4 = 4.5-5'
-5 = 5-6'
-6 = 6'+
-
-CPAP, continuous positive airway pressure, "air splint" keeps some of the air in a patient's lungs when they exhale so it doesn't collapse. starting pressure is 0.5 mmH2O.
+`CPAP` == continuous positive airway pressure, "air splint" keeps some of the air in a patient's lungs when they exhale so it doesn't collapse. starting pressure is 0.5 mmH2O.
 
 Rate and Tidal vol combo
 > If adequate, provide appropriate O2
@@ -247,80 +243,87 @@ Looking at both ventilation rate and exchange capability
 Rate: hypoventilation raises ETCO2, hyperventilation lowers
 Exchange: damage to alveoli that limits gas exchange, lowers ETCO2
 
-**Disorders**
+# Respiratory
 
-`Emphysema`
+**Emphysema**
 Air trapped underneath the skin--feels like rice crispies.
 > Signs: Thin, barrel chest appearance, generally unproductive cough, prolonged exhalation, pursed lip breathing, diminished breath sounds, possible wheezing or rhonchi, dyspnea on exertion, pink complexion, tachypneic and tachycardic, tripod positioning.
 > Symptoms
 > Treatment
+> Emergent?
 
-`Chronic Bronchitis`
+**Chronic Bronchitis**
 
 > Signs: Typically overweight, chronic cyanotic complexion, dyspnea but not as severe emphysema, vigorous productive cough, coarse ronchi, heard upon auscultation, wheezing and possible crackles, frequent episodes of respiratory infections (3 months x 2 years)
 > Symptoms:
 > Treatment:
+> Emergent? No
 
-`Asthma / Status Asthmaticus`
+**Asthma / Status Asthmaticus**
 
 > Signs: Dyspnea (commonly progressively worsens), nonproductive cough, wheezing upon asultation?, tachypnea and tachycardia. severe cases: inability to speak, cyanosis, absent breath sounds, low pulse ox, confusion, vital sign changes
 > Symptoms: anxiety, restlessness
 > Treatment: Albuterol, Ipratropium Bromide potentially, O2
+> Emergent? Potentially
 
-`Pneumonia`
+**Pneumonia**
 > Signs: fever, cough, dyspnea, tachypnea, tachycardia, abnormal breath sounds, diaphoresis, cyanosis and low pulse ox in some cases.
 > Symptoms: Malaise, decreased appetite, sharp localized chest pain.
 > Treatment: humidified O2, to the hospital, or they may refuse and go to PCP
+> Emergent? No
 
-`Pulmonary Embolism` **PE**
+**Pulmonary Embolism - PE**
 An obstruction of blood flow in the pulmonary arteries that prevents blood from reaching the lungs for oxygenation. Risks for developing PE include sedentary position, long bone fractures, smoking, and birth control. Things that increase the likelihood of a clot (ie DVT) forming and traveling to the lungs.
 > Signs: cyanosis, hypoxia, tachypnea, tachycardia, falling BP, ETCO2 decrease, cool clammy skin, distended neck vein, cough (50% cases). Still would have clear lung sounds.
 > Symptoms: restlessness/anxiety, sharp localized pain.
 > Treatment: Get to the hospital ASAP, O2 for hypoxia but you can't save them.
+> `Emergent`
 
-`Pulmonary Edema`
+**Pulmonary Edema**
 Acute pulmonary edema as part of congestive heart failure (CHF). Buildup of fluid.
 > Signs: Dyspnea, orthopnea (difficulty breathing dependent on position), frothy sputum, tachycardia, tachypnea, tripod position, crackles and possible wheezing, distended neck veins, possible peripheral edema.
 > Symptoms: fatigue, anxiety or confusion.
 > Treatment:
+> Emergent? Potentially depending on severity
 
 CHF you can tell which side of the heart failure is on, left heart causes pulmonary edema; right heart causes peripheral edema.
 
-`Pneumothorax`
+**Pneumothorax**
 Spontaneous (bleb ruptures), traumatic, hemothorax, tension (putting pressure on the heart and other lung).
 Air, blood, or other fluids leaking into pleural space and compressing the lungs.
 > Signs: decreased breath sounds to one side, possible subcutaneous emphysema, tachypnea, tachycardia, pallor or cyanosis, deteriorating pulse ox.
 > Symptoms: sudden onset shortness of breath, sudden onset of *sharp* chest or shoulder pain
 > Treatment: Use a needle to drain if BP is hypotensive or systolic < 100, occlusive bandage for open traumatic pneumothorax, if closed pneumothorax give high flow O2 and call ALS.
+> `Emergent`
 
-`Hyperventilation`
+**Hyperventilation**
 Caused by nervousness and anxiety, emotionally charged condition, patient caught in a hyperventilation-hypoxia loop.
 > Signs: dyspnea, tachypnea, tachycardia, hand and feet spasm
 > Symptoms: dizziness, short of breath
 Treatment: Need to relax patient with coaching, maybe explain what is happening physiologically to show you know what you're doing. They don't really need actual meds or treatment but O2 can be sort of a placebo. Do not tell them to calm down.
+> Emergent? No.
 
-`Epiglottis`
+**Epiglottis**
 > Physiology/pathophys: Inflammation of the epiglottis
-> S/s: Difficulty swallowing, hurts every time they swallow, stops swallowing. Maybe fever from bacterial infection, change in voice
-> Vital sign changes:
-> Questions during assessment:
-> Treatment: Tracheal intubation, call ALS. Don't mess with it at all/
-> Additional Notes/memory aids:
+> Signs: possible fever from infection, change in voice, difficulty swallowing, stops swallowing
+> Symptoms: hurts when they swallow
+> Treatment: Tracheal intubation, call ALS. Don't mess with it at all
+> Emergent? Potentially depending on severity
 
-`Pertussis`
+**Pertussis**
 Whooping cough, they've expired all the air in their lungs and then take in a very big and rough breath, and then that makes them cough more. Contagious
 > Signs:
 > Symptoms:
 > Treatment:
 
-`Cystic Fibrosis`
+**Cystic Fibrosis**
 Lungs can't clear out mucus because they don't move as well.
 > Signs:
 > Symptoms:
 > Treatment:
 
-`Upper Respiratory Infection (URI)`
-Infection that can well and occlude the airway.
+**Upper Respiratory Infection (URI)**
+Infection that can swell and occlude the airway.
 > Signs:
 > Symptoms:
 > Treatment: 
@@ -340,15 +343,16 @@ iGel sizes:
 7. ETCO2/capnography
 8. MDI/CPAP
 
-# Cardiac
-
 `Characteristics of muscle cells`
 > Excitability - respond to electrical stimulation (bathmotropy)
 > Conductivity - transmit stimulation to other cells (dromotropy)
 > Contractility - shorten and cause a muscle contraction (intropy)
 > Automaticity - generate their own electrical impulse
 
-`Acute Coronary Syndrome (ACS)`
+# Cardiac Disorders
+**Usually Emergent**
+
+**Acute Coronary Syndrome (ACS)**
 > Angina pectoris "Chest pain"
 
 Stable(not true ACS)
@@ -363,7 +367,7 @@ Unstable (true ACS)
 
 Treatment going to be the same, aspirin + nitro maybe O2
 
-> Acute Myocardial Infarction (AMI)
+**Acute Myocardial Infarction (AMI)**
 - STEMI S-T Myocardial Infarction
 - on an ekg, the S-T point is elevated above baseline.
 
@@ -376,7 +380,7 @@ Treatment going to be the same, aspirin + nitro maybe O2
 
 Always need to rule out cardiac no matter what.
 
-`Coronary Artery Disease`
+**Coronary Artery Disease**
 trick: add an F in front
 Arteriosclerosis -- hardening of the blood vessels
 `F`art--
@@ -390,18 +394,187 @@ Tamponade = blockage of blood
 
 When systolic starts to fall and diastolic increases, sign of pericardial tamponade. Eventually they are the same.
 
-`CHF`
-> Signs: peripheral edema (right side), JVD, elevated blood pressure, fluid in lungs (crackles), sleeping upright, pink frothy spetum
-> Symptoms:
+**CHF**
+> Signs: peripheral edema (right side), JVD, elevated blood pressure, fluid in lungs (crackles), sleeping upright, pink frothy sputum
+> Symptoms: chest pain, difficulty breathing
 > Treatment:
 
 BP rough estimate tips: if 
-- radial pulse
-- systolic is at least 90
+- radial pulse, systolic is at least 90
 - if brachial, 80
-- if femoral, 70. 
+- if femoral, 70
 - if carotid, 60
 
+# Abdominal Disorders
+
+**UTI**
+
+**Ulcer**
+
+**Bowel obstruction of GI tract**
+
+**Espophageal Varices**
+
+**Hemorrhoids**
+
+**Gallstones + Cholecystitis**
+
+**Pancreatitis**
+
+**Kidney Stones**
+
+**Appendicitis**
+
+**Hernia**
+
+**GI Bleeding**
+
+**Aortic Aneurysm**
+- Abdominal
+- Thoraccic
+
+**Renal Failure/Dialysis**
+
+**Hepatitis**
+
+**Ulcerative Diseases**
+
+**Endometritis**
+
+**Hemophilia**
+
+**Pelvic Inflammatory Disease (PID)**
+
+**Thrombophilia**
+
+**Ovarian cyst**
+
+
+# Neurological Disorders/AMS
+
+**Common Causes of AMS**
+`A`lcohol intoxication
+`E`pilepsy
+`I`nsulin
+`O`verdose
+`U`nderdose
+`T`rauma
+`I`nfection
+`P`sychiactric
+`S`troke
+
+**Diabetes**
+
+**Stroke**
+2 types:
+- `Ischemic` ;  caused by blockage
+    - thrombus - at site of occlusion (thrombotic stroke)
+    - embolus - from somewhere else in the body (embolic stroke)
+- `Hemorrhagic` ;  caused by rupture and bleeding
+    - subarachnoid hemorrhage - in subarachnoid space
+    - intracerebral hemorrhage - inside the brain
+Symptoms depend on which part(s) of the brain are affected.
+
+`Aphasia`
+Problem with speech/language.
+- Receptive : unable to understand language
+- Expressive : understand language, unable to form reply
+
+Broca's aphasia, signal goes wrong between brain and mouth, knows exactly what you want to say but can't say it.
+
+Assessment:
+- `CPSS`  :  Facial droop (show teeth/smile), arm drift (close eyes and hold arms in front of them for 10sec), Abnormal speech patterns and muscle paralysis ("You can't teach an old dog new tricks"
+- `LAPSS`  :  Also considers other causes of AMS including hypoglycemia, hyperglycemia, and seizures and additionally requires a physical test of asymmetry of strength.
+- `MENDS`  :  Most comprehensive.
+    - Symptom Onset
+        - Time
+        - Trauma (history)
+        - Seizure
+    - Neurologic
+        - LOC
+        - Speech/language
+        - Visual fields
+        - Motor strength
+    - Witness
+        - Name
+        - Contact Info
+    EXAM:
+        Mental Status: check LOC (AVPU), speech ("can't teach a dog" phrase), questions including about age/month, able to follow commands?
+        Cranial Nerves: facial droop, visual fields (4 quadrants), horizontal gaze (side to side)
+        Limbs: Arm drift, leg drift, Sensory (close eyes, taps and pinch), coordination (finger to nose, heel to shin)
+
+Stroke patients can more likely raise eyebrows and bells palsy (facial nerve paralysis) can't. If unsure, treat like a stroke.
+
+**Note the time that symptom onset began, because fibrinolytic drugs must be administered without 4.5 hours from first sign/symptom**
+
+**Headache**
+- `Vascular headache` :  Dilation or distension of vessels or inflammation within the cranium
+- `Migraine headache` :  last from 4-72 hours, typically throbbing and generalized or localized to one side, often accomoanied with photosensitivity, nausea, vomiting, sweating. sometimes preceded by an aura.
+- `Cluster headache` :  occur repetitively in clusters that last for 15 min-3 hours, on one side of the head or face in the temporal region/around the eye, excruciating. may also have excessive tear production, nasal congestion or runny nose, nausea, facial swelling, restlessness/agitation, facial flushing or pallor, tenderness, drooping eyelids
+- `Tension headache` :  last more than 30 min (usually 4-6 hours), most common type of recurring headache with pain on both sides of the head and described as a constant throbbing, aching, squeezing, bandlike or forceful pressure in frontal, temporal, and occipital regions
+- Organic headache :  aka traction or inflammatory headaches, symptom of another condition ie tumors, stroke, infection, hemorrhage, meningitis.
+
+**Seizure**
+Sudden temporary alteration in brain function caused by massive, continuing electrical discharges. Typically don't last very long and patient will be in postictal state by the time EMS arrives. Postictal can last 30 min to hours to days and seem like stroke.
+
+Brief seizure = <5min
+Prolonged seizure = 5-30min and can caused permanent brain cell injury
+
+- Status epilepticus: continuous seizure activity lasting longer than 5 min or two or more sequential seizures without full recovery of consciousness between seizures.
+
+Potential complications: aspiration, brain cell damage from hypoxia and lack of glucose, muscle damage with release of proteins that damage the kidneys, fractures or dislocations.
+
+Generalized convulsive seizures: tonic (muscle rigidity)-clonic (convulsion)
+Generalized nonconvulsive seizures: absence, myoclonic (sporadic brief jerks), tonic, atonic (total loss of muscle strength, fall to ground)
+Treatment includes
+
+**Syncope**
+Fainting, caused by brain being deprived of oxygen for a brief period.
+
+**Eye stuff**
+`Nystagmus`
+Involuntary movement of the eyes. Can be horizontal, vertical, and rotary.
+`Convergence`
+Ability to cross eyes.
+`Pupil Size`
+Opiates cause pupils to construct--pinpoint. Alcohol and hallucinogens (ie LSD) cause pupils to dilate. Depressants and stimulants can cause pupils to slow but PCP and cannabis will appear normal.
+
+**Drugs**
+CNS Depressants:
+- sedatives, tranquilizers, hypnotics.
+    - Alcohol (often abbrev. as ETOH)
+        - in withdrawal, watch for seizures and hallucinations
+        - trauma with alc abuse can cause subdural hematoma (under dura mater). take falls w alc patients v seriously
+        - liver damage (hepatitis), hypertension, esphogeal varices
+    - Benzos
+        - anxiety, seizures, sleep disturbances
+        - klonopin, valium, ativan, versed
+
+CNS Stimulants
+    - Cocaine, amphetamines
+        - fatigue, inability to concentrate, weight loss
+        - adderal, ritalin
+        
+Hallucinogens
+    - mental health disorders
+        - LSD, psilocybin, peyote
+
+Phencyclidine
+    - PCP, "angel dust"
+    
+Narcotic analgesics
+    - Opiates, heroin, hydrocodone, vicodin, morphine, fent, carfentanil
+        - AMS, pinpoint pupils, bradypnea
+        - treat od w narcan
+
+Inhalants
+    - paints, glue, air duster, cleaning products
+
+OTC
+    - acetaminophen (apap) (tylenol)
+    - nsaid (ibuprofen, aleve)
+    - cough syrup
+    
 # Shock
 
 **Recognition**
@@ -558,4 +731,54 @@ Treatment:
     - At EMT-I/P level, can give antihistamines.
 - For anaphylaxis (EMT-B): Transport, epi, o2 + airway management. with iv cert, draw it up yourself
 
-# Abdominal
+# Environmental
+
+Hypothermia
+Core temp:
+95-98
+- AAOx3, shivering
+90-95
+- slight confusion, shivering stops, loss of fine motor skills
+85-90
+- severely decreased mentation, loss of gross motor function, sluggish pupils, slow respirations, bradycardia
+Treatment:
+- mild to moderate (awake)
+    - active rewarming :  hot packs, warm blankets, warm drinks
+- severe (unresponsive)
+    - passive rewarming :  place in warm ambulance
+    - handle gently due to risk of VFib
+    - manage ABC's, CPR if indicated
+
+Frostbite
+    - exposure of tissue to cold
+    - signs/symptoms
+        - early - superficial : blanching, mottling, decreased sensation
+        - late - partial to full thickness : white/gray waxy skin, skin firm to touch, swelling, possible blisters
+    - Treatment: 
+    for superficial : remove wet/restrictive clothing and jewelry, place hands/fingers in their axillary and groin to thaw, do not rub or massage
+    for partial/full thickness : remove wet/constrictive clothing/jewelry, cover with dry sterile dressing, transport. DO NO rub or massage, apply heat, or break the blisters
+    for long/delayed transport with no chance of refreezing : immerse in tepid water, stir continuously, continue until good CSM, dry sterile dressings. it will be extremely painful
+    
+Heat related illness
+- heat cramps, heat exhaustion, heat stroke
+- risk factors: high ambient temp, high humidity, exercise or activity, extremes of age, underlying illness, obesity, alc/drugs
+
+Heat cramps: loss of electrolytes causing muscle cramps. happens in abdomen, arms, legs. care is removing them from the environment, giving salt solution or sports drink, and massage muscles
+
+Heat exhaustion: cooling mechanisms are still functioning, but impaired. they become hypotensive from dehydration, peripheral vasodilation
+- signs/symptoms: syncope, weakness, dizziness, tachycardia, rapid respirations, nausea/vomiting, cool, clammy/moist skin
+- treatment: active cooling, remove from environment, sip on something cold, iv, ice packs in axillary/groin
+
+Heat stroke: cooling mechanisms fail, core temp extremely high, can get brain damage or die
+- signs/symptoms: si
+- treatment: move to cool environment, RAPID active cooling, ice packs to groin, axillary, cervical areas, remove clothing, wet sheets, fan aggressively, manage airway and assist ventilations, oxygen, rapid transport
+
+Water
+have firefighters go in deep water
+wet drowning (fluid enters) vs dry drowning (larynx spasms shut and blocks air, suffocation)
+care: spinal immobilization, provide airway (suction), ventilate w bvm connected to o2, relieve gastric distention only if it interferes with ventilation, compressions w no pulse. take to hospital even if they seem fine because there can be a rebound reaction later.
+
+Lightning
+Treatment: "Reverse triage", work dead ones first, death results from respiratory arrest and cardiac arrhythmias, treat burns, spinal immobilization.
+
+
