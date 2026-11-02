@@ -1,0 +1,287 @@
+# EMS 1023 Notes
+
+**Car Crashes**
+`Extrication:`
+Simple access -- accessing the patient without need of tools (opening door or window)
+Complex access -- using extrication tools to gain access to patient or remove them from vehicle (breaking glass, spreader, cutter)
+
+3 separate collisions: vehicle impact, body impact, organ impact
+
+`Significant MVC, MVA, AA`
+- speed over 40mph
+- roll-overs/patients unrestrained
+- ejection from vehicle
+- major vehicle damage
+- intrusion into passenger compartment > 1 ft
+- extrication time > 20min
+- death in same passenger compartment
+
+Golden hour and platinum ten:  best chance of survival = surgical access within 60min, platinum 10 on scene time.
+
+`MOI`
+- evaluating mechanism of injury allows providers to predict injuries, injuries can be hidden
+
+Significant injuries
+- penetrating injuries to the head, neck, torso
+- spinal injuries with neurological deficit
+- flail chest (2 rib fractures in 2 or more places with a free-floating section that does not move with the rest while breathing)
+- 2 or more proximal long bone fractures
+- pelvic fractures
+- amputations proximal to wrist or ankle
+
+`men 5-6 liters, women 4-5 liters`
+
+**Blast injuries**
+- primary phase = pressure wave
+- secondary phase = from flying debris
+- tertiary phase = from being thrown and landing
+- quaternary = from falling or collapsing debris
+
+**Penetrating injuries**
+- low velocity (hand held - knife, stake)
+- medium velocity (handgunsand shotguns)
+- high velocity (rifles)
+
+Don't call entrance/exit wounds for GSWs
+
+**Burns**
+1st red skin
+2nd blistering
+3rd charred/dead skin
+4th down to bone
+
+# What to look for during trauma assessments`
+`D` - Deformity
+`C` - Contusions, bruising
+`A` - Abrasions, buffing off of skin
+`P` - Punctures
+
+`B` - Burns
+`T` - Tenderness
+`L` - Lacerations - less intentional and clean than an incision
+`S` - Swelling - hematomas
+
+Hematoma = collection of blood beneath the skin, raised up
+Contusion = blood pooling, bruise
+Avulsion = chunk of tissue removed, partial can form a flap
+
+Keep severed body parts cool not cold, not on ice, for reattachment.
+
+`Signs of bad head injuries:` bruise behind ear, dual black eyes = basal skull fracture.
+
+`Traumatic asphyxia`, pressure on abdomen compressing diaphragm or aorta and preventing perfusion to lower half of the body, often in hypovolemic shock and will drop once the pressure is released.
+
+**Increased risk factors**
+- Extremes of age
+    - Elderly are less flexible, more fragile, and less able to compensate.
+    - Children have less muscle mass, more easily injured, harder to assess, compensate well early and compensate quickly.
+
+# Soft Tissue Injuries
+DCAP BTLS
+
+**Closed Injury**
+:  Skin is still intact
+cells and blood vessels damaged, swelling and pain, dislocation.
+
+`Contusion`
+- Pooling of blood beneath skin that does not cause swelling.
+Cells and vessels damaged
+
+`Hematoma`
+- Collection of blood causing swelling.
+Consider large amount of tissue damage, larger vessel damage, and significant blood loss.
+
+`Care for Closed Injuries`
+- Ccld packs
+- splint all painful, swollen, deformed extremities
+- treat for shock and transport if necessary
+
+**Open Injury**
+:  Skin broken.
+
+`Abrasion`
+- Top layers of skin rubbed or buffed off.
+epidermis/dermis damaged, painful, capillary ooze.
+
+`Lacerations`
+- Cut or tears
+epidermis/dermis damaged, muscle nerve or vessel damage possible.
+consider severe bleeding.
+
+`Avulsion`
+- Flap of skin or tissue
+can be partial or completely missing
+
+`Care for Open Injuries`
+- Control bleeding
+- Apply clean dressing, don't always try to complete tissue.
+- Transport and treat for shock
+
+`Amputations`
+- Appendage, extremity or tissue is separated from the body
+consider severe or limited bleeding, keep them cool not cold and do not clean
+
+Care for Amputations
+- Care for bleeding
+- Immobilize partial amputations
+    -Do not complete partial amputations
+    
+Find it, wrap in sterile dressing, watertight container, keep cool not frozen, transport with patient or get PD to find it and bring it.
+
+`Neck Wounds + Chest Wound`
+- may cause air embolism and extensive bleeding, treat with occlusive dressing
+- first occlusive dressing is a gloved hand, then dressing
+
+1. cover with occlusive dressing - foil, plastic, vaseline gauze
+2. control bleeding, avoid compressing carotid unless absolutely necessary
+
+# Bones and Joint Injuries
+
+**MOI**
+Direct or indirect
+Torisonal
+
+`Open`
+- Bone sticking out of skin.
+Control bleeding then slint in position and don't push back in.
+If a bone is injured, splint bone above and bone below. If joint is injured, splint bone above and below.
+
+`Closed`
+- Not sticking out of skin.
+Splint in position found.
+
+`Orthopedic Injuries`
+Types
+- Fracture; bone breaks
+- Dislocation; joint has been popped out of normal function
+- Amputation; complete severing
+- Sprain; damage to tendon, often on a joint
+- Strain; damage to muscle or ligament
+
+Crepitus = bone on bone grinding
+
+Only times to use a traction splint with an isolated, mid-shaft femur fracture.
+
+Must expose a suspected bone or joint injury, splint, and potentially cold pack.
+
+Splinting prevents motion of bone ends, bone fragments, or injured joints. Reduces damage to muscles, nerves, vessels, prevents conversion pf closed to open, prevent restriction of blood flow, prevent or reduce excessive bleeding, maybe reduce pain.
+
+Check CSM, if no pulse: try to pull traction and return to position of function Once to potentially release blood flow. Immobilize joint above and below, dress open wounds, and don't deliberately push bone ends in.
+
+Splint before moving, pad rigid splints, use backboard with multi-trauma.
+
+Risks include compressing nerves, vessels, and tissues. Delays transport, reduces distal circulation, aggravation of injury, excessive bone-end movement.
+
+# Chest and Abdominal Trauma
+
+**Pneumothorax**
+`Types`
+- Open (sucking chest wound)
+    - only happens when the hole is larger than the trachea
+- Spontaneous
+    - increase in lung pressure that can pop a bleb in the visceral pleura, can be caused by sneezing, coughing, etc
+- Hemothorax
+    Dyspnic, lacerated intercostal muscles, shock: could be obstructive or hypovolemic.
+- Hemopneumothorax
+- Tension
+    - lung and *heart* are compressed by increased pressure in the thoracic cavity
+    - can cause some JVD, drop of bp, type of obstructive shock
+
+Open is hole to outside environment and air gets in from outside; closed is hole between lung and thoracic cavity, air comes from inside lungs.
+    
+`Signs and symptoms`
+- tachypnea, dyspnea
+- pain and bruising at sight
+- diminished breath sounds on affected side
+- subcutaneous emphysema
+
+`Care`
+- High flow O2, careful with PPO2
+- Occlusive dressing
+- Transport
+
+# Burns
+
+`Circumferential Burns` :  encircle a body area ie arm, leg, chest, joint areas. they can cause circulatory compromise and nerve damage, compartment syndrome from the edema collecting below burn area
+
+Escharotomy - Opening down extremity to relieve pressure from swelling
+
+**Rule of 9's for estimating area of a burn** --
+Total Body Surface Area (TBSA)
+
+Head front/back 4.5%, total 9%
+Arm front/back 4.5%, total 9% per arm
+Torso front/back 18% per
+Legs front/back 9%, total 18 per
+
+After 20%+ TBSA, fluid loss is huge risk and will need fluid infusion rapidly.
+
+Palm size ~1% of body area
+
+**Types of Burns**
+Don't use wet dressings because it risks worsening hypothermia.
+
+- Thermal
+    - Stop source of burn, cut clothing away from area - if it's stuck cut around it, avoid grabbing burned area when moving
+- Inhalation
+    - causes damage to mucosa of the upper airway and results in edema that may restrict airflow and lead to airway obstruction
+- Chemical
+    - Brush powders off before flushing with a lot of water
+    - MSDS - app for it as well, request hazmat if you know
+- Electrical
+    - Secure power if possible or remove with a non-conductive object like a wooden stick, don't touch directly.
+- Radiation
+
+`Cases of Burns`
+- Flame 
+- Contact 
+- Scald 
+- Steam
+- Gas 
+- Electrical
+- Flash
+
+`Care for Burns`
+- remove patient from source and stop burning process
+- ABCs, airway
+- cool the burn
+- classify severity
+- cover with dry sterile dressing ie burn sheet
+- keep patient warm
+- remove watches and jewelry
+- cover, avoid material that leaves particles, don't apply ointments, lotions, or antiseptics, don't break blisters
+
+# Head Trauma
+
+`Scalp Injuries:` 
+- Bleeds heavily, soft tissue injuries, wrap around head to cover
+
+`Fractures:`
+- Linear - usually no evidence in a closed head wound
+- Depressed - caved in, causes pressure on brain and risks laceration from sharp bone edges
+- Basilar - in or around foramen magnum
+    - Signs are battle signs (bruising behind the ears) and raccoon eyes (bruising around both eyes) - late signs
+- Closed - blunt force trauma
+- Open - penetrating trauma
+- Diffuse axonal -- Concussion
+
+`Coup`: rapid deceleration, brain hits front of skull
+`Counter-coup`: whiplash, brain hits back of skull.
+
+`Brain Injuries`
+Most likely causes: motor vehicle crashes, assaults/violence (blunt force), falls, sports/recreation
+
+- Subdural hematoma: slow onset, can cause brainstem hernia through foramen magnum, which affects breathing and HR
+- Epidural hematoma: fast transitions between lucidity and severe AMS, seizures (usually without postictal)
+- Subarachnoid hematoma: sudden onset severe headache, "worst headache i've had in my life"
+
+**Cushing's Triad** -- Increased Cranial Pressure
+- High systolic BP, widening pulse pressure
+- Bradycardia, result of beginning of brainstem hernia
+- Irregular RR or cheyne-stokes respirations (fast-slow-apneic, fast-slow-apneic), also result of brainstem hernia
+ Peds
+ 
+# Eye, Face, Neck Trauma
+
+Foreign Objects
+- Flush it
