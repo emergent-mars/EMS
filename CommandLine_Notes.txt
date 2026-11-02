@@ -31,6 +31,10 @@ git commit -a "<filename>" to add and commit at the same time
 git commit -m "message" to commit with the message directly without opening a window
 `git push origin main` to actually update main branch of the repository
 
+git checkout <branch-name> to check if local is up to date with remote
+git pull origin <branch-name> to apply remote changes to local repo
+
+
 ./a.out to run cpp code in /EMS
 
 compile code
